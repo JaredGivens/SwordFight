@@ -4,6 +4,8 @@
 compile_commands.json
 clang-flags.txt
 *.code-workspace
+Makefile
+UE5Game.json
 
 # Compiled Object files
 *.slo
