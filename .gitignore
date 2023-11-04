@@ -6,6 +6,7 @@ clang-flags.txt
 *.code-workspace
 Makefile
 UE5Game.json
+.ignore
 
 # Compiled Object files
 *.slo
